@@ -14,5 +14,5 @@ for (int i = 9; i >= 1; i--) {
 }
 
 int sho(int arry){
-    retun ++arry
+    return ++arry;
 }
